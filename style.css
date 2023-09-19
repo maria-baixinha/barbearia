@@ -1,11 +1,15 @@
 body {
-  background: #CCCCCC;
+ 
 }
 
 #banner {
   width: 100%;
 } 
 
+.principal{
+  background: #cccccc;
+}
+q   '  'QQQQ
 h1 {
   text-align: center;
 }
@@ -16,6 +20,11 @@ p {
 em strong {
   color: red;;
 }
+
+.beneficio {
+  background: #FFFFFF;
+}
+
 #missao {
   font-size: 20px;
 }
