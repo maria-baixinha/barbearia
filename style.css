@@ -3,7 +3,8 @@ body {
 }
 
 #banner {
-}
+  width: 100%;
+} 
 
 h1 {
   text-align: center;
@@ -21,6 +22,7 @@ em strong {
 
 em strong {
 color: #FF0000;
+}
 }
 
 .itens{
